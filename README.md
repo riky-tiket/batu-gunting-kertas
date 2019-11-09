@@ -1,5 +1,5 @@
 ## visit the app
-`https://riky-tiket.github.io/batu-gunting-kertas`
+[Batu-Gunting-Kertas](https://riky-tiket.github.io/batu-gunting-kertas)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
