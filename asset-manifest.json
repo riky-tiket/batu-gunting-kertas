@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/batu-gunting-kertas/static/css/main.bfbee579.chunk.css",
+    "main.js": "/batu-gunting-kertas/static/js/main.7a4868ce.chunk.js",
+    "main.js.map": "/batu-gunting-kertas/static/js/main.7a4868ce.chunk.js.map",
+    "runtime-main.js": "/batu-gunting-kertas/static/js/runtime-main.274f338a.js",
+    "runtime-main.js.map": "/batu-gunting-kertas/static/js/runtime-main.274f338a.js.map",
+    "static/js/2.7ea945c3.chunk.js": "/batu-gunting-kertas/static/js/2.7ea945c3.chunk.js",
+    "static/js/2.7ea945c3.chunk.js.map": "/batu-gunting-kertas/static/js/2.7ea945c3.chunk.js.map",
+    "index.html": "/batu-gunting-kertas/index.html",
+    "precache-manifest.e14e50c8b540bf39d726c13b2a123909.js": "/batu-gunting-kertas/precache-manifest.e14e50c8b540bf39d726c13b2a123909.js",
+    "service-worker.js": "/batu-gunting-kertas/service-worker.js",
+    "static/css/main.bfbee579.chunk.css.map": "/batu-gunting-kertas/static/css/main.bfbee579.chunk.css.map",
+    "static/media/avatar1.jpg": "/batu-gunting-kertas/static/media/avatar1.b3a1e1a2.jpg",
+    "static/media/batu.png": "/batu-gunting-kertas/static/media/batu.8c063139.png",
+    "static/media/gunting.png": "/batu-gunting-kertas/static/media/gunting.1a297805.png",
+    "static/media/health.png": "/batu-gunting-kertas/static/media/health.759ecde5.png",
+    "static/media/kertas.png": "/batu-gunting-kertas/static/media/kertas.c278e198.png",
+    "static/media/versus.png": "/batu-gunting-kertas/static/media/versus.37d7c9b5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.274f338a.js",
+    "static/js/2.7ea945c3.chunk.js",
+    "static/css/main.bfbee579.chunk.css",
+    "static/js/main.7a4868ce.chunk.js"
+  ]
+}
