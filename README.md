@@ -1,5 +1,5 @@
-## ReactJS Game Batu-Gunting-Kertas
-`visit the site : https://riky-tiket.github.io/batu-gunting-kertas/`
+## visit the app
+`https://riky-tiket.github.io/batu-gunting-kertas`
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
