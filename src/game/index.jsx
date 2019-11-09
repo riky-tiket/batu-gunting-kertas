@@ -5,7 +5,7 @@ import gunting from '../assets/image/gunting.png';
 import kertas from '../assets/image/kertas.png';
 import versus from '../assets/image/versus.png'
 import healts from '../assets/image/health.png';
-import playerImage from '../assets/image/avatar1.jpg';
+import playerImage from '../assets/image/avatar1.png';
 import map from 'lodash/map';
 import cloneDeep from 'lodash/cloneDeep';
 import random from 'lodash/random';
