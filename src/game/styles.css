@@ -1,0 +1,159 @@
+body {
+  font-family: 'Amatic SC', cursive;
+}
+
+.container {
+  background-color: beige;
+  width: 200px;
+  height: 200px;
+  border: 1px solid #888;
+  margin-right: 10px;
+  margin-top: 10px;
+  margin-left: 12px;
+  box-shadow: 5px 10px 10px #777575;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.container:hover {
+  margin-top: -30px;
+  transition: 1s;
+}
+
+.pertanyaan {
+  background-color: beige;
+  width: 240px;
+  height: 269px;
+  border: 1px solid #888;
+  margin-right: 10px;
+  margin-top: 10px;
+  margin-left: 10px;
+  box-shadow: 5px 10px 10px #777575;
+  border-radius: 5px;
+}
+
+.jawaban {
+  background-color: beige;
+  width: 240px;
+  height: 269px;
+  border: 1px solid #888;
+  margin-right: 10px;
+  margin-top: 10px;
+  margin-left: 10px;
+  box-shadow: 5px 10px 10px #777575;
+  border-radius: 5px;
+}
+
+.atas {
+  width: 100%;
+  display: inline-flex;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.bawah {
+  width: 100%;
+  display: inline-flex;
+  text-align: center;
+}
+
+.versus {
+  width: 150px;
+  left: 235px;
+  top: 120px;
+}
+
+.title-text {
+  font-weight: bold;
+  font-size: 24px;
+}
+
+.pemisah {
+  font-weight: bold;
+  font-size: 40px;
+  text-align: center;
+  max-width: 677px;
+  margin-bottom: 50px;
+}
+
+.baris-nyawa {
+  display: inline-flex;
+}
+
+.game-over {
+  font-size: 100px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.player-image {
+  margin-top: 50px;
+  margin-left: 50px;
+}
+
+.input-player-name {
+  margin-top: 90px;
+  margin-left: 20px;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+input#playerName {
+  margin-top: 10px;
+  width: 200px;
+  height: 30px;
+  font-size: 30px;
+  text-transform: uppercase;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  box-shadow: 5px 5px 10px #888;
+  font-family: 'Amatic SC', cursive;
+}
+
+button {
+  font-family: 'Amatic SC', cursive;
+  font-size: 20px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  margin-top: 21px;
+  box-shadow: 5px 5px 10px #888;
+}
+
+button:hover {
+  background-color: bisque;
+  transition: 1s;
+}
+
+.nyawaPlayer {
+  font-size: 50px;
+  margin-left: 10px;
+  text-align: right;
+  max-width: 654px;
+}
+
+.bot-point {
+  position: absolute;
+  margin-top: 18px;
+  margin-left: 28px;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.player-point {
+  position: absolute;
+  margin-top: 17px;
+  margin-left: 110px;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.judul-permainan {
+  font-size: 40px;
+  float: left;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+.wrapper {
+  display: inline-flex;
+}
