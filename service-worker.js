@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/batu-gunting-kertas/precache-manifest.e14e50c8b540bf39d726c13b2a123909.js"
+  "/batu-gunting-kertas/precache-manifest.156c205b5d7867df1d04eeda623b7742.js"
 );
 
 self.addEventListener('message', (event) => {
